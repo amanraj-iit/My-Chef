@@ -1,6 +1,9 @@
 Hi please follow these steps to use the application....
 Step1: Go to the application
 Step2: Write what you want to eat i,e . the recipe you want to get....(eg. Paneer , EGG , Chicken,etc)
+
+![WhatsApp Image 2021-09-12 at 7 02 01 AM](https://user-images.githubusercontent.com/77458628/132967754-e3b86e0f-2f78-42b1-9ba6-4112e7b6282d.jpeg)
+
 Step3: Click on Search
            here you will find that all recipies list...
 Step4: Click on the receipe you want.
