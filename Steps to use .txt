@@ -6,10 +6,13 @@ Step2: Write what you want to eat i,e . the recipe you want to get....(eg. Panee
 
 Step3: Click on Search
 
-![food1](https://user-images.githubusercontent.com/77458628/132967792-81bc7517-1799-4be8-a57c-4384fb8df70e.jpeg)
-
            here you will find that all recipies list...
 Step4: Click on the receipe you want.
 Step5: You can read the recipe of that food in steps.
+
+![food1](https://user-images.githubusercontent.com/77458628/132967792-81bc7517-1799-4be8-a57c-4384fb8df70e.jpeg)
+
 Step6: Click on Video (if you want to watch recipe videos of that food)
+![food11](https://user-images.githubusercontent.com/77458628/132967825-da4773ba-4cc8-4144-8097-9ed6e2f0ef4a.jpeg)
+
 Step7: Let Cook...:)
