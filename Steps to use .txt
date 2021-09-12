@@ -1,0 +1,9 @@
+Hi please follow these steps to use the application....
+Step1: Go to the application
+Step2: Write what you want to eat i,e . the recipe you want to get....(eg. Paneer , EGG , Chicken,etc)
+Step3: Click on Search
+           here you will find that all recipies list...
+Step4: Click on the receipe you want.
+Step5: You can read the recipe of that food in steps.
+Step6: Click on Video (if you want to watch recipe videos of that food)
+Step7: Let Cook...:)
